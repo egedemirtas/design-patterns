@@ -1,7 +1,5 @@
 package factory.motorcycle.impl;
 
-import enums.EngineType;
-import enums.WeelManufacturer;
 import factory.motorcycle.MotorcycleFactory;
 import model.engine.Engine;
 import model.engine.impl.CheapEngine;

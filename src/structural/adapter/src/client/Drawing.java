@@ -1,4 +1,6 @@
-package model;
+package client;
+
+import model.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

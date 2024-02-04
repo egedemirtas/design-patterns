@@ -9,6 +9,7 @@ public abstract class HousePrototype implements Cloneable {
         this.price = price;
     }
 
+    @Override
     public Object clone() {
         Object clone = null;
 

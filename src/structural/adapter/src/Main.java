@@ -4,7 +4,7 @@ import adapter.TriangleClassAdapter;
 import extra.Rhombus;
 import extra.Triangle;
 import model.Circle;
-import model.Drawing;
+import client.Drawing;
 import model.Rectangle;
 
 public class Main {
